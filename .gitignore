@@ -6,4 +6,5 @@ temp/
 
 tmp/*
 !tmp/.gitkeep
-_ormconfig.json
+mySQLormconfig.json
+ElephantSQLormconfig.json
